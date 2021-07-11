@@ -2,7 +2,8 @@
 a simple After Effects script to export high quality GIFs
 
 # Requirements
-FFmpeg and ImageMagick binaries need to be in the GIFsquid/bin directory
+FFmpeg and ImageMagick binaries need to be in the GIFsquid/bin directory.
+THESE ARE NOT INCLUDED
 
 # Installation
 Unarchive the entire repo into your ScriptUI Panels folder. Pay attention to ther requirements above
