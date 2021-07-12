@@ -1,6 +1,8 @@
 # GIFsquid
 a simple After Effects script to export high quality GIFs
 
+Licensed under GPL 3.0. I happily accept pull requests
+
 # Requirements
 FFmpeg and ImageMagick binaries need to be in the GIFsquid/bin directory.
 THESE ARE NOT INCLUDED
